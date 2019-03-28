@@ -1,10 +1,10 @@
 # Docker Hub Bot for GitHub Pull Requests
 A bot to help you manage GitHub pull requests by posting updates on images pushed to Docker Hub for this PR.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftomkerkhove%2Fdocker-hub-notifications-bot%2Fmaster%2Fsrc%2Fsrc%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftomkerkhove%2Fdocker-hub-notifications-bot%2Fmaster%2Fsrc%2Fazuredeploy.json" target="_blank">
     <img src="https://azuredeploy.net/deploybutton.png"/>
 </a>
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Ftomkerkhove%2Fdocker-hub-notifications-bot%2Fmaster%2Fsrc%2Fsrc%2Fazuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Ftomkerkhove%2Fdocker-hub-notifications-bot%2Fmaster%2Fsrc%2Fazuredeploy.json" target="_blank">
     <img src="./media/logos/armviz.png"/>
 </a>
 
