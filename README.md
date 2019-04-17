@@ -8,7 +8,7 @@ A bot to help you manage GitHub pull requests by posting updates on images pushe
     <img src="./media/logos/armviz.png"/>
 </a>
 
-# Prerequisits
+# Prerequisites
 - An Azure subscription
 - Access to the Docker Hub repository
 - GitHub user that will be used to post comments
