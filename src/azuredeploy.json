@@ -35,9 +35,6 @@
             }
         }
     },
-    "variables": {
-        "Alerts.ActionGroup.Name": "Promitor - Maintainers"
-    },
     "resources": [
         {
             "type": "Microsoft.Logic/workflows",
